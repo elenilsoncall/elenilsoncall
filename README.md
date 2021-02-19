@@ -30,7 +30,7 @@
 <a href="https://twitter.com/Thaina__Helena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twiter_ThainaHelena" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/thainahelena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn_ThainaHelena" height="20" width="20" /></a>
 <a href="https://www.codewars.com/users/ThainaHelena" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codewars-512.png" alt="CodeWars_ThainaHelena" height="20" width="20" /></a>
-<a href="https://fb.com/ThainaHelena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook_ThainaHelena" height="20" width="20" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006643564073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook_ThainaHelena" height="20" width="20" /></a>
 <a href="https://www.instagram.com/thaina.helena/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram_ThainaHelena" height="20" width="20" /></a>
 </p>
 
