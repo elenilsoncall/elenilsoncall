@@ -3,9 +3,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Thainahelena&color=green)
 - 🚀 From Economics to Programming!
-- 💵 5-Years Trader on Stock Exchange
+- 💵 5-Years Trader on Stock Exchange!
 - 💻 I'm Dev student now @ [**Senai**](http://www.portaldaindustria.com.br/senai/)
 - 👩🏽‍💻 All of my projects are available [**Here**](https://github.com/Thainahelena/)
+- 🎯 I'm currently pushing all my codes to GitHub and building my portfolio!
 - 📫 How to reach me **thaina.lena@gmail.com**
 - 🏅 I love to run! Improving myself every week!
 - 🎮 When I'm not having fun coding, I'm probably having fun playing!
