@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, there! 👩🏽‍🚀 </h1>   
 <br>
 
-![](https://komarev.com/ghpvc/?username=Thainahelena&color=green)
+![](https://komarev.com/ghpvc/?username=Thainahelena&color=blue)
 - 🚀 From Economics to Programming!
 - 💵 5-Years Trader on Stock Exchange!
 - 💻 I'm Dev student now @ [**Senai**](http://www.portaldaindustria.com.br/senai/)
