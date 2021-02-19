@@ -13,7 +13,7 @@
 
 <h3 align="center">Skills</h3>   
 
-<span align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -21,7 +21,7 @@
   <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" width="45" height="45"/>
   <img src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" alt="mysql" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/>
-</span>
+</p>
 
 <h5 align="center">Add Me!</h5>
 <p align="center">
