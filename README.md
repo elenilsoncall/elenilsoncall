@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, Tudo bem?! </h1>   
 <br>
 
-![](https://komarev.com/ghpvc/?username=elenilsoncall=green)
+![](https://komarev.com/ghpvc/?username=elenilsoncall&color=green)
 - 💻 Estudante de progrmamação!
 - 💻 Trabalhei na Àrea comercial!
 - 💻 Estudei marketing digital!
